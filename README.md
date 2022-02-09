@@ -1,12 +1,8 @@
-# appium-pageobjectmodel
-Appium mobile test automation framework with Page Object Model design using Java + Maven + TestNG.
+# appium-pageobjectmodelAppium mobile test automation framework with Page Object Model design using Java + Maven + TestNG.
 Framework follows many of the industry best practices and supports Android and iOS in a single code base.
 
 **Step by step instructions to build this framework from scratch and integrate with CI/CD is in this Highest Rated Udemy course.
-Enroll today at the minimal rate of INR 570/ $12.99.
-Link with coupon code: https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/?couponCode=MASTERAPPIUM19**
-
-![One of the most comprehensive Appium course ever created](/CourseLandingPage.PNG)
+Enroll today at the minimal rate of INR 570/ $
 
 Technologies/Tools used in building the framework
 =================================================
